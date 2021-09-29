@@ -825,7 +825,7 @@ p
 
 .themeSwicher::after
 {
-    content: 'Switch to Dark Mode';
+    
     position: absolute;
     left: 40px;
     font-size: 0.7em;
@@ -838,7 +838,7 @@ p
 
 .dark .themeSwicher::after
 {
-    content: 'Switch to Ligth Mode';
+    
     color: rgb(77, 223, 9);
 }
 
